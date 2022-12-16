@@ -1,0 +1,25 @@
+body {
+    background-color:gray ;
+}
+
+h1 {
+    position: relative;
+    
+}
+
+img{
+    position: sticky;
+}
+
+.button {
+    padding: 5px 9px 5px 9px;
+    margin: 20px;
+    cursor: pointer;
+    border: 3px solid greenyellow;
+    justify-content:center ;
+    background-color: antiquewhite;
+}
+
+.invi {
+    display: none;
+}
